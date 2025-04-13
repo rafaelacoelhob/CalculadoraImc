@@ -1,5 +1,5 @@
 
-## 📱 Calculadora IMC
+## Calculadora IMC
 
 ### Descrição Geral
 
