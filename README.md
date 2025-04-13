@@ -1,5 +1,5 @@
 
-## 📱 Calculadora IMC com Feedback Positivo
+## 📱 Calculadora IMC
 
 ### Descrição Geral
 
